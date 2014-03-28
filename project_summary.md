@@ -22,7 +22,7 @@ With the launch of the S5, I was inspired to take action with this project. I lo
 
 [Pure Javascript Prototype Repo](https://github.com/ZachNagengast/polygonz/tree/javascript)
 
-[First Version Demo (before name change)](http://zaucetech.com/fragmenter)
+[First Version Demo (old name)](http://zaucetech.com/fragmenter)
 
 [Initial reddit post](http://www.reddit.com/r/javascript/comments/1zdje7/need_a_new_background_image_make_one_yourself/)
 
