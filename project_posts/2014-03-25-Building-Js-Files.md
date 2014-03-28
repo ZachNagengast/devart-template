@@ -1,6 +1,6 @@
 ##Dart2JS
 
-This is something really cool about Dart. It takes your Dart code and turns it directly into javascript, so it will run on normal browsers. This takes all the heavy lifting of the shoulders of the developers and just spits out nice, working code. Pretty awesome, thanks Google!
+This is something really cool about Dart. It takes your Dart code and turns it directly into javascript, so it will run on normal browsers. This takes all the heavy lifting off the shoulders of the developers and just spits out nice, working code. Pretty awesome, thanks Google!
 
 ```
 [Info from Dart2JS]:
