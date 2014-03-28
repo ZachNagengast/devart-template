@@ -1,10 +1,12 @@
 {
     "technologies": {
         "apis": [
+            "App Engine"
         ],
         "platforms": [
             "Chromium",
-            "Dartium"
+            "Dartium",
+            "Dart"
         ],
         "toolkits": [
         ]
