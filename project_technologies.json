@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "Chromium",
+            "Dartium"
         ],
         "toolkits": [
-            "insert toolkits"
         ]
     },
     "themes": [
-        "insert themes"
+        "Polygons",
+        "Geometric",
+        "Algorithms",
+        "Canvas",
+        "ArtWithDart"
     ]
 }
