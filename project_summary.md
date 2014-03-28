@@ -2,7 +2,7 @@
 
 ## An Experiment with Dart
 - Zach Nagengast www.github.com/ZachNagengast
-- Live Demo: polygonz.zaucetech.com
+- Live Demo: http://polygonz.zaucetech.com
 
 ## Description
 
@@ -12,7 +12,7 @@ Polygonz is a tool that creates beautiful and customizable polygon-styled backgr
 
 With the launch of the S5, I was inspired to take action with this project. I loved this background, but wanted to make my own and customize it, which until now could only be done with photoshop. So I put my head down and after a while came up with this, hope you enjoy.
 
-<!-- ![Website](project_images/website.png) -->
+![Website](project_images/website.png)
 
 ## Links
 
