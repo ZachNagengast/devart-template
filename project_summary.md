@@ -78,9 +78,11 @@ Dart Code
 Various demos
 
 ![iPad Demo](project_images/ipad.png?raw=true "iPad Demo")
+
 ![iPhone Demo](project_images/iphone.png?raw=true "iPhone Demo")
 
 Inspirations
 
 ![Estimote](project_images/estimote.jpg?raw=true "Inspiration - Estimote")
+
 ![Polygon Lion](project_images/inspiration2.jpg?raw=true "Inspiration - Polygon Lion")
